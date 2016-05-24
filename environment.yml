@@ -1,0 +1,11 @@
+name: qiime
+channels:
+  - bioconda
+dependencies:
+  - python=2.7
+  - numpy
+  - scipy
+  - toolz
+  - matplotlib
+  - pandas
+  - qiime
